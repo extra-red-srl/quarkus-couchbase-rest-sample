@@ -1,7 +1,9 @@
 # quarkus-couchbase-rest-sample
 Simple example of REST interface with Quarkus to interact with Couchbase NO-SQL database services
 
-It offers 2 function: insert a file in the database (creating)
+It offers 2 function: 
+* insert a file in the database (POST)
+* retrive a file by id from the database (GET)
 
 ## Quarkus info
 Project is created from https://code.quarkus.io/ with maven. It runs with java 17
