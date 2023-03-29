@@ -5,6 +5,8 @@ It offers 2 function:
 * insert a file in the database (POST)
 * retrive a file by id from the database (GET)
 
+Linkedin article: https://www.linkedin.com/pulse/quarkus-couchbase-simple-rest-example-agostino-leoni/
+
 ## Quarkus info
 Project is created from https://code.quarkus.io/ with maven. It runs with java 17
 
